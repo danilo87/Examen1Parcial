@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method RatingDePeliculas.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	edad cannot be resolved to a variable
+
+	at RatingDePeliculas.main(RatingDePeliculas.java:25) [file:/home/alumno/Examen1Parcial/Examen1Parcial/bin/RatingDePeliculas.class]

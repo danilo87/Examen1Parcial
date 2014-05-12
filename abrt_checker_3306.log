@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method PromedioDeJuegos.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The operator > is undefined for the argument type(s) String, int
+
+	at PromedioDeJuegos.main(PromedioDeJuegos.java:19) [file:/home/alumno/Examen1Parcial/Examen1Parcial/bin/PromedioDeJuegos.class]
